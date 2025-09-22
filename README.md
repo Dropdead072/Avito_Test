@@ -12,13 +12,13 @@ GPU: NVIDIA GeForce RTX 3060 Laptop GPU
 
 ├── data/
 
-│   └── dataset\_1937770\_3.txt      # тестовый датасет из Stepik
+   └── dataset\_1937770\_3.txt      # тестовый датасет из Stepik
 
 ├── mbart-space-fix/               # локальные чекпоинты обученной модели (не загружаются в GitHub)
 
 ├── train\_model\_data/
 
-│   └── wiki\_dataset.csv           # собранный датасет (Wiki + синтетика)
+   └── wiki\_dataset.csv           # собранный датасет (Wiki + синтетика)
 
 ├── .gitignore
 
