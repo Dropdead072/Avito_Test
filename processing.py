@@ -68,6 +68,9 @@ def read_and_split_file(file_path):
 
 
 def find_space_indices(text):
+    '''
+    Find space indexes from string
+    '''
     indices = []
     for i, char in enumerate(text):
         if char == ' ':
